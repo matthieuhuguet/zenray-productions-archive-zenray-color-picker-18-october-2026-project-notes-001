@@ -1,0 +1,56 @@
+# zenray-color-picker-18-october-2026 : project feedback, append only (18 October 2026, 19:33:30 +0200)
+
+## 18 October 2026, 19:33:30 +0200 : Log
+
+<!-- feedback-event:101f49e0190ab5a3650a397fbe15def953a42ccffec2ea7aa5412ccae6c7a5dc (18 October 2026, 19:33:30 +0200) -->
+- Project: zenray-color-picker-18-october-2026; kind: log. (18 October 2026, 19:33:30 +0200)
+
+> Project initialized: ZenRayColorPicker. Workshop: /Users/zenray/.claude/tmp/tmp-zenray-color-picker-18-october-2026. (18 October 2026, 19:33:30 +0200)
+
+## 18 October 2026, 19:32:04 +0200 : Prompt
+
+<!-- feedback-event:44c10d2692947b044b55d5225ddb645d31de8f37348fb410baca9ee09aa67c1e (18 October 2026, 19:32:04 +0200) -->
+- Project: zenray-color-picker-18-october-2026; kind: prompt. (18 October 2026, 19:32:04 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/677fd6b2-6c8d-446c-83ce-d37211c3efa9.db. (18 October 2026, 19:32:04 +0200)
+
+> désinstalle pika l'app qui permet de faire en sorte d'avoir une pipette et get la couleur et fais en sorte soit de coder l'app la plus leightweight soit de récupérer une app depuis github et de l'appeller ZenRayColorPicker via un fork et de coder la meilleur app possible consigne de design dans typographie  (18 October 2026, 19:32:04 +0200)
+>
+>  soit le plus simple possible tu as max 10 min pour coder l'app go et faire les recherche (18 October 2026, 19:32:04 +0200)
+
+## 18 October 2026, 19:44:18 +0200 : Log
+
+<!-- feedback-event:6c6945e1ea1e9ce19b37527fad1fe33a2497db2f6d5a1ab19a55e72539f44234 (18 October 2026, 19:44:18 +0200) -->
+- Project: zenray-color-picker-18-october-2026; kind: log. (18 October 2026, 19:44:18 +0200)
+
+> Pika désinstallé (/Applications/Pika.app 9,6 Mo supprimé après extraction de ses 20 couleurs d'historique). ZenRayColorPicker codé en Swift natif (binaire de 269 Kio, zéro dépendance, NSColorSampler natif sans permission Screen Recording), trio typographique embarqué (InterVariable, AnthropicSerif-Regular, AnthropicMono-Regular), 5 formats copiables en un clic (HEX, RGB, HSL, OKLCH, Linear 3D pour Houdini/Unreal), contraste WCAG temps réel et panneau de 8 paramètres HDA éditables en direct. (18 October 2026, 19:44:18 +0200)
+
+## 18 October 2026, 19:44:18 +0200 : Iteration
+
+<!-- feedback-event:258689738ad4b89887b6deea9baf2bdea772a59cd429b358e442de0f42a2814d (18 October 2026, 19:44:18 +0200) -->
+- Project: zenray-color-picker-18-october-2026; kind: iteration. (18 October 2026, 19:44:18 +0200)
+- Source: checkpoint:antigravity:677fd6b2-6c8d-446c-83ce-d37211c3efa9. (18 October 2026, 19:44:18 +0200)
+
+> Pika désinstallé (20 couleurs migrées). ZenRayColorPicker compilé (269 Kio), installé dans /Applications/ZenRayColorPicker.app avec LaunchAgent com.zenray.colorpicker, trio typographique ZenRay embarqué et panneau de 8 paramètres HDA vérifiés visuellement. (18 October 2026, 19:44:18 +0200)
+
+## 18 October 2026, 19:44:29 +0200 : Iteration
+
+<!-- feedback-event:c8ab52cbc98d8e96a8d00583edc5dd8887b03ecefd3e5c33dcd422e7185d68d8 (18 October 2026, 19:44:29 +0200) -->
+- Project: zenray-color-picker-18-october-2026; kind: iteration. (18 October 2026, 19:44:29 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/677fd6b2-6c8d-446c-83ce-d37211c3efa9.db. (18 October 2026, 19:44:29 +0200)
+
+> **État du journal global ([/Users/zenray/.claude/PROGRESS.md](file:///Users/zenray/.claude/PROGRESS.md)) :** (18 October 2026, 19:44:29 +0200)
+> 1. **18 October 2026 (11:39)** : bandeaux de phase Fire Emblem réduits au texte en police procédurale italique sur fond sombre dans `ZenRayMotionDesign`. (18 October 2026, 19:44:29 +0200)
+> 2. **18 October 2026 (11:46)** : saut de fin d'animation des visuels fixes corrigé (`force3D` sur tous les tweens, résidu de `0,008 px` supprimé). (18 October 2026, 19:44:29 +0200)
+> 3. **18 October 2026 (12:01)** : vérification des 4 formats pour les 8 visuels fixes de `ZenRayMotionDesign`, restauration du titre de Zhong Kui et ajout de `CropCheck.py`. (18 October 2026, 19:44:29 +0200)
+> - **Prochain noté** : validation de Matthieu dans Validate (lecture réelle). (18 October 2026, 19:44:29 +0200)
+>
+> --- (18 October 2026, 19:44:29 +0200)
+>
+> ### `ZenRayColorPicker` installé et Pika désinstallé (18 October 2026) (18 October 2026, 19:44:29 +0200)
+>
+> Plutôt qu'un fork lourd de Pika (`9,6 Mio` avec Sparkle et dépendances SwiftUI), `ZenRayColorPicker` est codé en Swift natif (`AppKit`, `Carbon`, `CoreText`) avec un binaire exécutable de **`269 Kio`** (35 fois plus léger), zéro dépendance externe et aucune demande de permission d'enregistrement d'écran grâce à la loupe native `NSColorSampler` de macOS. (18 October 2026, 19:44:29 +0200)
+>
+> - **Utilisation immédiate** : (18 October 2026, 19:44:29 +0200)
+>   - **Pipette directe n'importe où** : `⌘⇧C` au clavier, ou **clic droit** sur l'icône de pipette (`eyedropper.halffull`) dans la barre des menus. (18 October 2026, 19:44:29 +0200)
+>   - **Ouvrir ou fermer le panneau** : `⌥⌘C` au clavier, ou **clic gauche** sur l'icône de la barre des menus. (18 October 2026, 19:44:29 +0200)
+>   - **5 formats copiables en un clic** : `HEX` (`#b62721`), `RGB` (`rgb(182, 39, 33)`), `HSL` (`hsl(2, 69%, 42%)`), `OK (18 October 2026, 19:44:29 +0200)

@@ -1,0 +1,23 @@
+{
+ "schemaVersion": 1,
+ "projectId": "zenray-color-picker-18-october-2026",
+ "scannedAt": "2026-10-18T17:43:53.821Z",
+ "conversations": [
+  {
+   "projectId": "zenray-color-picker-18-october-2026",
+   "strength": "bound",
+   "lines": 0,
+   "work": 0,
+   "prompts": 0,
+   "first": null,
+   "last": "2026-10-18T17:43:50.646Z",
+   "conversationId": "gemini:677fd6b2-6c8d-446c-83ce-d37211c3efa9",
+   "provider": "gemini",
+   "sessionId": "677fd6b2-6c8d-446c-83ce-d37211c3efa9",
+   "title": "Conversation Gemini 677fd6b2",
+   "updatedAt": "2026-10-18T17:43:50.646Z",
+   "bytes": 30133768,
+   "boundProject": "zenray-color-picker-18-october-2026"
+  }
+ ]
+}
