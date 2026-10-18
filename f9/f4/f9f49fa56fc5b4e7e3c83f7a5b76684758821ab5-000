@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-color-picker-18-october-2026",
- "scannedAt": "2026-10-18T18:47:55.250Z",
+ "scannedAt": "2026-10-18T18:50:54.727Z",
  "conversations": [
   {
    "projectId": "zenray-color-picker-18-october-2026",
@@ -14,9 +14,9 @@
    "conversationId": "gemini:677fd6b2-6c8d-446c-83ce-d37211c3efa9",
    "provider": "gemini",
    "sessionId": "677fd6b2-6c8d-446c-83ce-d37211c3efa9",
-   "title": "désinstalle pika l'app qui permet de faire en sorte d'avoir une pipette et get la couleur et fais en sorte soit de coder l'app la plus leigh",
-   "updatedAt": "2026-10-18T18:41:27.817360+00:00",
-   "bytes": 44228112,
+   "title": "Conversation Gemini 677fd6b2",
+   "updatedAt": "2026-10-18T18:50:43.416Z",
+   "bytes": 21470152,
    "boundProject": "zenray-color-picker-18-october-2026"
   }
  ]
